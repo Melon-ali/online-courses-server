@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "name": "Valerie J. Creasman",
+    "title": "Executive Designer @ Google",
+    "description" : "Our educational, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi. Vestibulum eget risus velit.",
+    "img" : "https://i.ibb.co/8cyBsKJ/client-03.png"
+  },
+  {
+    "id": "02",
+    "name": "Hannah R. Sutton",
+    "title": "Executive Chairman @ Facebook",
+    "description": "People says about, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi. Vestibulum eget risus velit.",
+    "img": "https://i.ibb.co/FqXybRb/client-04.png"
+  },
+  {
+    "id": "03",
+    "name": "Pearl B. Hill",
+    "title": "Chairman SR @ Facebook",
+    "description": "Like this histudy, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi. Vestibulum eget risus velit",
+    "img": "https://i.ibb.co/r6v2dx3/client-05.png"
+  },
+  {
+    "id": "04",
+    "name": "Mandy F. Wood",
+    "title": "SR Designer @ Google",
+    "description": "Educational template, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi. Vestibulum eget risus velit.",
+    "img": "https://i.ibb.co/NWnr00p/client-06.png"
+  },
+  {
+    "id": "05",
+    "name": "Michael D. Lovelady",
+    "title": "CEO @ Google",
+    "description": "Histudy education, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi. Vestibulum eget risus velit.",
+    "img": "https://i.ibb.co/gdnP5z2/client-02.png"
+  },
+  {
+    "id": "06",
+    "name": "Martha Maldonado",
+    "title": "Executive Chairman @ Google",
+    "description": "After the launch, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi. Vestibulum eget risus velit.",
+    "img": "https://i.ibb.co/h711QX5/client-07.png"
+  }
+]

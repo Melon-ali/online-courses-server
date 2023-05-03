@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "IT and Software",
+    "image": "https://i.ibb.co/3z2cqKx/software.jpg",
+    "img": "https://i.ibb.co/311D3V2/server.png"
+  },
+  {
+    "id": "02",
+    "name": "Web Design",
+    "image": "https://i.ibb.co/qWtnTH6/web-design.jpg",
+    "img": "https://i.ibb.co/Y0gzssq/web-design.png"
+  },
+  {
+    "id": "03",
+    "name": "Graphic Design",
+    "image" : "https://i.ibb.co/qWtnTH6/web-design.jpg",
+    "img": "https://i.ibb.co/BtNYTbs/graphic-designer.png"
+  },
+  {
+    "id": "04",
+    "name": "Personal Development",
+    "image": "https://i.ibb.co/0DCKNRv/personal-development.jpg",
+    "img": "https://i.ibb.co/zn5m4LS/personal.png"
+  }
+]
